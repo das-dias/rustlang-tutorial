@@ -1,0 +1,10 @@
+[package]
+name = "rustlang-tutorial"
+edition = "2021"
+authors = ["mosfatino <das.dias6@gmail.com>"]
+description = "Rust Language Basic Syntax and Concepts Tutorial"
+version = "0.0.1"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
