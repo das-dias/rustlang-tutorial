@@ -1,5 +1,9 @@
 use std::env;
 
+// @NOTE :  When running crate main with "cargo run", 
+// @        add the arguments in front:
+// @        'cargo run arg1 arg2 arg3 arg4 ... argN'
+
 pub fn run(){
     // collect arguments from console
     let argv: Vec<String> = env::args().collect();
