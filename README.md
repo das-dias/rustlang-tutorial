@@ -1,4 +1,4 @@
-# Rust Language Tutorial
+# Rust Language - Crash Course Tutorial
 
 This repo provides any software developper wanting to learn about Rust lang with the basic and primitive datatypes, the basic syntax and the basic ownership and object borrowing / memory moving concepts.
 
